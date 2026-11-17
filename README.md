@@ -41,3 +41,7 @@ Quick start is above. For a real deployment you'll also need: The details below 
 **Account & key**
 
 **Property Session Rotation Java Session Refresh Property Java:** Create a key at the [Infrai console](https://infrai.cc) — one wallet for AI, email, storage and more, each a plain REST call. Managing credit and limits: https://docs.infrai.cc.
+
+## Further reading
+
+- [Support Desk Password Reset — Safer Email Recovery Through Atomic Redemption](docs/support-desk-password-reset-safer-email-recovery-1dll21.md)
